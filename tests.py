@@ -1,0 +1,3 @@
+import instabot
+
+print("test")
